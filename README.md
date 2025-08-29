@@ -19,8 +19,7 @@
 </head>
 <body>
   <div class="card">
-    <!-- profile.jpg ko same folder me daalna -->
-    <img alt="Profile photo" src="profile.jpg" />
+    <img alt="Profile photo" src="https://i.imgur.com/0Z8FQWb.jpg" />
     <h1>Namaste, Vívèk 🙏</h1>
     <p>Yeh mera personal page — bas naam aur tasveer.</p>
   </div>
